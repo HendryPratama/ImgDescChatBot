@@ -3,7 +3,7 @@ from io import BytesIO
 from PIL import Image
 from ollama import generate
 
-BOT_TOKEN = '7699678198:AAF8JrKWJgFW7vQVIM3nMdE2TbvYXfMAVSY'
+BOT_TOKEN = 'Yours Bot Token'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
